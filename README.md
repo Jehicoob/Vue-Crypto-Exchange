@@ -19,6 +19,12 @@ npm run build
 ```
 npm run lint
 ```
+
+### Router
+```
+npm i vue-router@3.5.3
+```
+
 ### Numeral to format numbers
 ```
 npm i -S numeral
