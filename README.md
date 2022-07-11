@@ -19,17 +19,17 @@ npm run build
 ```
 npm run lint
 ```
-### Install Numeral to format numbers
+### Numeral to format numbers
 ```
 npm i -S numeral
 ```
 
-### Install Chartkick to make the graph
+### Chartkick to make the graph
 ```
 npm install vue-chartkick@0.6.1 chart.js@2
 ```
 
-### Install Spinners for transitions
+### Spinners for transitions
 ```
 npm install --save @saeris/vue-spinners
 ```
